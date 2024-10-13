@@ -19,4 +19,4 @@ Error Handling: Basic input validation to ensure correct difficulty selection.
 Logical Operators: Using or to handle multiple conditions within the main loop.
 Increment/Decrement Operations: Tracking remaining attempts by decrementing counters (hard_count and easy_count).
 Variable Management: Defining and updating variables to maintain game state.
-Random Number Generation: Using Python's random module to generate a random number, a common technique in many games and simulations.
+Random Number Generation: Using Python's random module to generate a random number.
